@@ -5,3 +5,6 @@
 3. set config/database.php as your own settings
 4. `php spark serve`
 5. open postman, run `localhost/api/penduduks`, using GET, POST, PUT, as you need
+<br>
+Weakness : <br>
+1. PendudukModel, allowedFields are not completed
